@@ -358,12 +358,22 @@ footer {
     width: 100%;
     margin-bottom: 200px;
   }
+  .nav-link {
+    display: block;
+    margin: 40px 0px;
+  }
 }
 @media only screen and (max-width: 996px) {
   .text-container {
     width: 500px;
     margin: auto;
     margin-bottom: 40px;
+  }
+  #txt {
+    margin: 80px 0px;
+  }
+  #bar {
+    margin-bottom: 60px;
   }
 }
 @media only screen and (max-width: 776px) {
