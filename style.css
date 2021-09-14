@@ -209,6 +209,8 @@ section .head {
 section .skills-section {
   background-color: #ff4a57;
   min-height: 60vh;
+  width: 600px;
+  margin: auto;
   color: #23263a;
   padding: 2rem;
   display: -webkit-box;
