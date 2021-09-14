@@ -206,9 +206,9 @@ section .head {
   text-align: center;
 }
 
-section .icons {
+section .skills-section {
   background-color: #ff4a57;
-  min-height: 40vh;
+  min-height: 60vh;
   color: #23263a;
   padding: 2rem;
   display: -webkit-box;
@@ -222,14 +222,6 @@ section .icons {
           align-items: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-}
-
-section .icons i {
-  font-size: 10rem;
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 20rem;
-          flex: 1 1 20rem;
-  text-align: center;
 }
 
 .about-me {
